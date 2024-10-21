@@ -31,5 +31,3 @@ Os **códigos de status HTTP** indicam o resultado de uma operação no servidor
 Esses conceitos formam a base para o design e implementação de APIs RESTful, proporcionando uma abordagem eficiente e escalável para o desenvolvimento de serviços web.
 
 
-# Autor do resumo: Edleson Duarte Batista Junior
-# Matrícula: 01516994
